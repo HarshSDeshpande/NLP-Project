@@ -1,2 +1,4 @@
-For creating the conda environment use this command:
+To create a Conda environment using a `requirements.txt` file, you can use the following command:
+
+```bash
 conda create --name <env> --file requirements.txt
