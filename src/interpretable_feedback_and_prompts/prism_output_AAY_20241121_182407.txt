@@ -1,0 +1,91 @@
+Initializing PRISM algorithm...
+Training Generator 1/2
+Iteration 1: Using reference image AAY1.png
+Generated prompt: The image features three smiling individuals, a man, a woman, and a child, positioned closely together. The child is standing behind the adults, with her arms around their shoulders. They are all wearing traditional Indian attire. In the foreground, several sacks filled with grain are visible, suggesting an agricultural theme. The text "Antyodaya Anna Yojana (AAY)" is prominently displayed, followed by information about wheat and rice pricing per kilogram in Hindi. The background is plain white, keeping the focus on the people and the sacks of grain.
+Generated new image
+Similarity score: 0.549
+Feedback received: 1. **Aspects Captured Well:**
+   - **Family Representation:** Both images feature a family, capturing a sense of togetherness.
+   - **Grain Bags:** The presence of grain bags in both images is well captured.
+   - **Cultural Attire:** The traditional attire is represented in the generated image, aligning with cultural elements.
+
+2. **Important Elements Missed:**
+   - **Text Styles and Placement:** The generated image contains different text styles and placements compared to the original.
+   - **Logo and Title:** “Antyodaya Anna Yojana (AAY)” is prominently displayed in the original but not accurately reproduced.
+   - **Specific Grain Type and Amounts:** The details about the grain type and amounts in the text are different.
+
+3. **Improving the Prompt:**
+   - **Specify Text Details:** Include specific text content and format to match the original image.
+   - **Highlight Title and Language:** Clearly state the requirement for the title “Antyodaya Anna Yojana (AAY)” and ensure the language matches.
+   - **Focus on Layout:** Describe the desired positioning of the family relative to the grain bags, and specify the need for a clear background with minimal text.
+
+By refining these elements, the generated image can achieve a closer likeness to the original.
+Completed iteration 1 with score 0.549
+Iteration 2: Using reference image AAY2.png
+Generated prompt: I'm unable to identify specifics or details about individuals in an image, but I can help create an improved image description based on your reference:
+
+The image showcases a harmonious family scene with three individuals: a man, a woman, and a child, all smiling warmly. The child, standing behind, lovingly rests her arms on the adults' shoulders, creating a sense of unity. They are dressed in traditional Indian attire, enhancing the cultural aspect of the image. In the foreground, there are several sacks filled with grain, indicating an agricultural theme.
+
+Prominently displayed in the image is the text "Antyodaya Anna Yojana (AAY)," accompanied by information about the pricing of wheat and rice per kilogram, written in Hindi. This text is styled to be clear and informative, placed strategically to ensure it is easily readable. The background is plain white, effectively keeping the focus on the family and the grain sacks. This composition highlights the themes of family, tradition, and agriculture.
+Generated new image
+Similarity score: 0.283
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images focus on themes related to food schemes and include key symbols like grains and people.
+   - The generated image captures the idea of family and community involvement.
+
+2. **Important Elements Missed:**
+   - The orange background and simplified, iconographic style of the first image are not present in the generated image.
+   - The text and logo elements in the first image are missing.
+   - The illustration styles are very different; the first is minimalist, while the second is more detailed and realistic.
+
+3. **Improving the Prompt:**
+   - Specify a minimalistic and iconographic style.
+   - Mention the use of a solid orange background color.
+   - Include requests for specific elements like simple symbols, a focus on graphic text, and logo inclusion.
+   - Emphasize the need for simplicity and consistency in design.
+Completed iteration 2 with score 0.283
+Training Generator 2/2
+Iteration 1: Using reference image AAY4.png
+Generated prompt: The image is a promotional graphic for the Antyodaya Anna Yojana, featuring a light blue background. At the top, there are symbols of the Indian government and the Indian flag. Below that, the title "Antyodaya Anna Yojana" is written in both English and Hindi. On the left side, an illustration depicts two individuals, one seated in a wheelchair and the other standing, engaged in a cheerful conversation. To the right, there is a photograph of a man with white hair and a beard, dressed in a black outfit. The center of the image highlights three colorful buttons labeled "Objectives," "Documents," and "Benefits." The bottom contains website information and a decorative orange border.
+Generated new image
+Similarity score: 0.320
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images feature a wheelchair, capturing the theme of assistance and care.
+   - Text elements such as "Objectives," "Documents," and "Benefits" are present in both images.
+   - The color scheme uses shades of blue and orange, maintaining a cohesive visual aesthetic.
+
+2. **Important Elements Missed:**
+   - The specific individual on the right side of the first image is absent in the generated image.
+   - The flag and emblem elements in the first image do not appear in the same form in the second image.
+   - The overall layout and specific iconography of the first image (like website URL placement) are not replicated.
+
+3. **Improving the Prompt:**
+   - Include details about the specific individuals or symbols present, such as “an Indian flag” or “a notable figure in the bottom right corner.”
+   - Specify the placement of text elements, e.g., “Text boxes with Objectives, Documents, and Benefits in the center.”
+   - Mention the need for specific additional elements like a website URL at the bottom or a national emblem.
+Completed iteration 1 with score 0.320
+Iteration 2: Using reference image AAY1.png
+Generated prompt: This image is a promotional graphic for the Antyodaya Anna Yojana. It features a light blue background and incorporates symbols of the Indian government and the Indian flag at the top. The title "Antyodaya Anna Yojana" is prominently displayed in both English and Hindi beneath these symbols.
+
+On the left side, there is a cheerful illustration depicting two individuals: one seated in a wheelchair and the other standing. They appear to be engaged in a friendly conversation. On the right, the image includes a photograph of a man with white hair and a beard, dressed in a black outfit.
+
+In the center, there are three colorful buttons labeled "Objectives," "Documents," and "Benefits," highlighting key aspects of the program. At the bottom of the image, website information is presented, framed by a decorative orange border.
+Generated new image
+Similarity score: 0.419
+Feedback received: 1. **Aspects Captured Well:**
+   - The text "Antyodaya Anna Yojana" is present in both images.
+   - Both images convey the concept of a government scheme or program.
+   - Use of similar color tones with Indian flag motifs (saffron, white, green).
+
+2. **Important Elements Missed:**
+   - The first image features a family with sacks of grain, representing food distribution, which is absent in the second image.
+   - The second image uses an illustrated style, focusing on different characters and symbols, lacking the real-life representation of the family.
+   - The first image includes a specific language and additional text for context that is missing in the second image.
+
+3. **How to Improve the Prompt:**
+   - Specify the inclusion of a family with sacks of grain to emphasize food distribution.
+   - Indicate a preference for photographic style to match the realism of the first image.
+   - Mention the inclusion of the specific text shown in the first image, including the language used.
+
+Completed iteration 2 with score 0.419
+Best Generator Score: 0.549

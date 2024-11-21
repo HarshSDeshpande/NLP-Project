@@ -1,0 +1,275 @@
+Initializing PRISM algorithm...
+Training Generator 1/3
+Iteration 1: Using reference image PMAY2.png
+Generated prompt: The image is a promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). It features a circular emblem with the number "5" and text highlighting the milestone. A figure is pictured in the top right corner, set against a green circular background. Below, the text emphasizes the use of new technologies in construction, mentioning that over 15 lakh houses are being built. The image includes photographs of residential buildings and construction activity, showcasing various stages of development. The logos at the top represent government agencies involved in the initiative.
+Generated new image
+Similarity score: 0.253
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images emphasize the number “5” prominently, highlighting the five-year milestone.
+   - The theme of housing and construction is present in both images, with buildings depicted.
+   - A government or organizational theme is present in both, though the logos differ.
+
+2. **Important Elements Missed:**
+   - The presence of a public figure in the first image is not reflected in the second.
+   - The original image includes a celebratory tone with specific mentions of the “Pradhan Mantri Awas Yojana (Urban),” which is absent in the generated image.
+   - The logo and branding elements at the top of the first image are not accurately matched.
+   - The style and layout differ significantly, with the first image having a more straightforward, brochure-like design, while the second has a more abstract, futuristic design.
+
+3. **Improving the Prompt:**
+   - Include mentions of specific branding or government program names, like “Pradhan Mantri Awas Yojana (Urban)”.
+   - Request the inclusion of a public figure or a portrait as part of the design.
+   - Specify the need for celebratory or promotional themes.
+   - Describe the desired layout more clearly, such as using a brochure-like style with sections for images and text.
+   - Include instructions for specific logo placement and the color scheme (e.g., green and white).
+Completed iteration 1 with score 0.253
+Iteration 2: Using reference image NSAP.png
+Generated prompt: The image is a promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). Central to the design is a circular emblem with the prominent number "5," symbolizing the milestone. A figure is positioned in the top right corner, framed by a green circular backdrop, suggesting leadership and guidance.
+
+Text elements highlight the program's achievements, particularly the integration of new technologies in construction, with a focus on the development of over 15 lakh houses. The lower section features dynamic photographs of residential buildings and active construction sites, illustrating various stages of progress and development.
+
+At the top, logos representing government agencies involved in the initiative are strategically placed, reinforcing official endorsement. The overall color scheme of green and white aligns with the theme of growth and sustainability, while the design maintains a clear, brochure-like structure, effectively conveying a celebratory and promotional tone.
+Generated new image
+Similarity score: 0.168
+Feedback received: 1. **Aspects Captured Well:**
+   - The generated image captures the infographic style with a structured layout and informative elements similar to the first image.
+   - It uses a central circular motif, which mirrors the central focus seen in the first image.
+
+2. **Important Elements Missed:**
+   - The generated image lacks the color scheme of the original image. The first image uses warm colors, while the generated one uses cool greens.
+   - The specific textual content and themes (e.g., key welfare schemes, specific programs) are not directly represented in the generated image.
+   - The human elements and characters present in the reference image are missing in the generated one, which focuses more on buildings and abstract symbols.
+
+3. **How to Improve the Prompt:**
+   - Specify the color scheme to include warm tones like orange, yellow, and pink.
+   - Include a directive to incorporate human figures or workers prominently in the design.
+   - Mention specific text elements or themes relevant to welfare schemes and national initiatives.
+   - Request a blend of text and people, highlighting social or governmental themes, to align more closely with the original infographic's purpose and audience.
+Completed iteration 2 with score 0.168
+Iteration 3: Using reference image ABPMJAY.png
+Generated prompt: The image is a vibrant promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). Dominating the design is a central circular emblem with the prominent number "5," symbolizing the milestone. A public figure is positioned in the top right corner within a green circular background, signifying leadership and guidance.
+
+The image text highlights innovative construction technologies, noting the completion of over 15 lakh houses, underscoring progress and development. Below this, photographs depict residential buildings and active construction sites, showcasing various stages of housing development.
+
+At the top, logos of government agencies involved in the initiative are strategically placed, reinforcing authenticity and official support. The overall color scheme of green and white aligns with the governmental theme, while warm tones of orange, yellow, and pink intertwine, adding a celebratory feel. The design is brochure-like, with clear sections that blend text and imagery, enhancing its promotional tone.
+Generated new image
+Similarity score: 0.586
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images incorporate a sense of organization and thematic content related to development programs.
+   - Usage of symbolic elements and icons that represent broader ideas.
+
+2. **Important Elements Missed:**
+   - The first image emphasizes people and healthcare cards, while the second focuses on infrastructure and has no human figures.
+   - The branding and logos prominent in the first image are missing in the second.
+   - The first image’s color scheme and typography (e.g., focus on pink and specific fonts) are not mirrored in the second.
+
+3. **Improving the Prompt:**
+   - Emphasize the inclusion of human elements like portraits or healthcare themes.
+   - Specify the inclusion of branding elements such as the logo of the Ayushman Bharat scheme.
+   - Focus on replicating the color scheme and fonts used in the original image.
+   - Request features like healthcare cards, as seen in the first image.
+Completed iteration 3 with score 0.586
+Iteration 4: Using reference image AAY.png
+Generated prompt: The image is a vibrant promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). At its center is a prominent circular emblem featuring the number "5," symbolizing the milestone achievement. In the top right, a public figure appears within a green circular background, representing leadership and guidance.
+
+Text in the image highlights the use of innovative construction technologies, noting the completion of over 15 lakh houses, which underscores significant progress and development. Below this, photographs display residential buildings and active construction sites, showcasing various stages of housing development.
+
+Government agency logos are strategically placed at the top, reinforcing the image's authenticity and official support. The color scheme of green and white aligns with the governmental theme, while warm tones of orange, yellow, and pink add a celebratory feel. The design is brochure-like, with organized sections that blend text and imagery, enhancing its promotional tone.
+Generated new image
+Similarity score: 0.243
+Feedback received: To compare the two images and provide specific feedback:
+
+1. **Aspects Captured Well in the Generated Image:**
+   - The generated image has a structured and organized layout that captures the essence of systematic planning, similar to the organized setup in the first image.
+   - Both images display textual elements, although the style and language differ.
+
+2. **Important Elements Missed:**
+   - The subject matter is entirely different; the original image focuses on a social welfare theme with human elements and community service, while the generated image displays an abstract, city-planning theme.
+   - The cultural and human-focused aspects with individuals present in the first image are absent in the generated one, which is more technical and architectural.
+   - The color palette and style differ significantly; the first image has more realistic and contextual colors, whereas the second is more vibrant and illustrative.
+
+3. **Improving the Prompt for a More Similar Image:**
+   - Add specific elements related to community service or social welfare, emphasizing the presence of people and daily life interactions.
+   - Include instructions for a realistic color palette to align more closely with the original photograph.
+   - Emphasize a focus on human subjects and activities, such as people interacting, to better capture the essence of the first image.
+   - Mention any cultural or regional elements depicted, such as clothing or setting, to increase relevance and accuracy.
+Completed iteration 4 with score 0.243
+Iteration 5: Using reference image misc2.png
+Generated prompt: The image is a vibrant promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). At its center, a bold circular emblem showcases the number "5," symbolizing the milestone. In the top right corner, a public figure appears within a green circular background, representing leadership and guidance.
+
+Text highlights innovative construction technologies and the completion of over 1.5 million houses, emphasizing progress and development. Below, images depict residential buildings and active construction sites, illustrating various stages of housing development.
+
+Government agency logos are prominently displayed at the top, reinforcing authenticity and official support. The color scheme of green and white aligns with the governmental theme, while warm tones of orange, yellow, and pink add a celebratory feel. The design is brochure-like, featuring clear sections that blend text and imagery, enhancing its promotional tone.
+Generated new image
+Similarity score: 0.360
+Feedback received: To provide feedback on the comparison between the original and generated images:
+
+### 1. Aspects Captured Well:
+- **Text Layout**: Both images contain text, though each serves different informational purposes.
+- **Color Use**: Both designs incorporate vibrant colors, albeit in different styles.
+- **Infographic Elements**: The images include graphics meant to convey information visually.
+
+### 2. Important Elements Missed:
+- **Subject Matter**: The original image focuses on pregnancy care, with relevant images and symbols, while the generated image centers on architecture and urban planning.
+- **Imagery and Theme**: The original contains photos of people, while the generated focuses on illustrations and buildings.
+- **Color Theme**: The first uses a warm theme associated with health and care, while the second uses a cooler, architectural theme.
+- **Cultural Context**: The original image contains cultural nuances that are absent from the generated image.
+
+### 3. How to Improve the Prompt:
+- **Specify Subject**: Clearly state that the topic is health and pregnancy care.
+- **Include Details**: Request specific imagery such as healthcare professionals, icons related to pregnancy, and relevant color schemes.
+- **Cultural Elements**: Mention any cultural considerations or imagery to maintain relevance.
+- **Text and Layout**: Ask for text placement that mimics informational brochures or flyers related to health campaigns.
+
+To increase the similarity score, it's crucial to provide a more comprehensive and detailed prompt that encapsulates the thematic elements, color schemes, and cultural nuances of the original image.
+Completed iteration 5 with score 0.360
+Iteration 6: Using reference image PMAY2.png
+Generated prompt: The image is a vibrant promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). At the center, a circular emblem prominently displays the number "5," symbolizing the milestone. In the top right corner, a public figure is featured within a green circular background, representing leadership and guidance.
+
+Text highlights the use of innovative construction technologies, noting the completion of over 15 lakh houses, emphasizing progress and development. Photographs below show residential buildings and active construction sites, illustrating various stages of housing development.
+
+At the top, logos of government agencies involved in the initiative are strategically placed, reinforcing authenticity and official support. The color scheme of green and white aligns with the governmental theme, while warm tones of orange, yellow, and pink add a celebratory feel. The design is brochure-like, with clear sections blending text and imagery to enhance its promotional tone.
+Generated new image
+Similarity score: 0.178
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images focus on a significant number “5,” indicating an anniversary or milestone.
+   - A similar theme of housing and building technology is present.
+
+2. **Important Elements Missed:**
+   - The original image prominently features a specific person, missing in the generated version.
+   - The original has clear branding and text related to the “Pradhan Mantri Awas Yojana,” which the generated image lacks.
+   - Specific construction images are present in the original but not accurately reflected in the generated image.
+
+3. **How to Improve the Prompt:**
+   - Specify the inclusion of a person associated with the event.
+   - Mention the need for specific text and branding related to "Pradhan Mantri Awas Yojana."
+   - Include detailed prompts about showing real-world construction images.
+   - Ensure the use of similar color schemes and layout styles.
+Completed iteration 6 with score 0.178
+Iteration 7: Using reference image misc.png
+Generated prompt: The image is a vibrant promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). At its center is a circular emblem prominently displaying the number "5," symbolizing the milestone achievement. Positioned in the top right corner is a notable public figure, set against a green circular backdrop, representing leadership and vision.
+
+The text emphasizes innovative construction technologies and celebrates the completion of over 15 lakh houses, highlighting progress and urban development. Below, photographs illustrate residential buildings and active construction sites, depicting various stages of housing development.
+
+At the top, logos of government agencies involved in the initiative are strategically placed, reinforcing authenticity and official endorsement. The overall color scheme of green and white aligns with governmental themes, while warm tones of orange, yellow, and pink add a festive and celebratory feel. The design resembles a brochure, with clear sections that seamlessly blend text and imagery, enhancing its promotional and informative tone.
+Generated new image
+Similarity score: 0.158
+Feedback received: **Comparison Feedback:**
+
+1. **What Aspects Were Captured Well in the Generated Image:**
+   - **Complex Layout:** The generated image features a complex, infographic-style layout with multiple sections and visual elements, akin to organized information display seen in the source image.
+   - **Use of Icons and Graphics:** Both images incorporate icons and graphic elements to convey information, although the styles differ.
+
+2. **What Important Elements Were Missed:**
+   - **Theme and Focus:** The source image centers on "Indian Air Force Day" with relevant elements like fighter jets and a mobile screen displaying information, which are absent in the generated image.
+   - **Color Scheme:** The original image uses specific brand colors and logos which are not reflected in the generated image.
+   - **Specific Imagery:** The presence of the soldier figure and airplanes is significant in the original, missing from the generated image.
+   - **Text Content and Fonts:** The original image includes specific textual content and varied fonts that are distinct and thematic.
+
+3. **How to Improve the Prompt:**
+   - **Include Specific Themes:** Mention "Indian Air Force Day," "fighter jets," and "mobile screen" in the prompt for thematic relevance.
+   - **Color and Branding:** Specify the need for specific colors like blue, green, and white to match the original's branding.
+   - **Incorporate Figures:** Request the inclusion of elements like a soldier or military figure in uniform and airplanes to align with the original image.
+   - **Text and Typography:** Emphasize the need for diverse font styles and specific text content to better mimic the original design elements.
+Completed iteration 7 with score 0.158
+Iteration 8: Using reference image AAY.png
+Generated prompt: The image is a vibrant promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). At the center is a large circular emblem featuring the prominent number "5," symbolizing the milestone. In the top right corner, a public figure appears within a green circular background, representing leadership and guidance.
+
+The text highlights innovative construction technologies, mentioning the completion of over 15 lakh houses to emphasize progress and development. Below, photographs showcase residential buildings and active construction sites, illustrating various stages of housing development.
+
+At the top, logos of government agencies involved in the initiative are strategically placed to reinforce authenticity and official support. The overall color scheme of green and white reflects the governmental theme, while warm tones of orange, yellow, and pink add a celebratory feel. The design has a brochure-like quality, with distinct sections that blend text and imagery, enhancing its promotional tone.
+Generated new image
+Similarity score: 0.259
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images use text prominently.
+   - They incorporate strong graphic elements, with one focusing on infographics and the other on textual information.
+
+2. **Important Elements Missed:**
+   - The underlying themes are entirely different: one is about a welfare scheme with people involved, while the other is a more abstract infographic with a central number and urban imagery.
+   - The color schemes and artistic styles do not align; the first is photographic, while the second is graphic and illustrative.
+   - The context and cultural elements present in the first image are absent in the second.
+
+3. **How to Improve the Prompt:**
+   - Clearly specify the theme of the welfare scheme and include human figures interacting with products like grains.
+   - Describe the color palette and setting to ensure the scene matches the first image's mood and context.
+   - Include specific cultural or contextual cues (like text in a particular language) for a more accurate portrayal.
+Completed iteration 8 with score 0.259
+Iteration 9: Using reference image misc4.png
+Generated prompt: The image is a vibrant and informative promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). At the center, a circular emblem prominently features the number "5," symbolizing the milestone. In the top right corner, a notable public figure is depicted within a green circular background, symbolizing leadership and guidance.
+
+Text within the image highlights the use of innovative construction technologies, boasting the completion of over 15 lakh houses, underscoring progress and development. Below this, photographs showcase residential buildings and active construction sites, illustrating various stages of housing development.
+
+Government agency logos are strategically placed at the top, reinforcing authenticity and official support. The color scheme of green and white aligns with the governmental theme, while interwoven warm tones of orange, yellow, and pink add a celebratory feel. The design is brochure-like, with well-defined sections blending text and imagery, enhancing its promotional tone.
+Generated new image
+Similarity score: 0.344
+Feedback received: To improve the generated image and achieve a higher similarity score with the reference image, consider the following feedback:
+
+1. **Aspects Captured Well:**
+   - Both images present complex layouts with multiple sections of information.
+   - Use of vibrant colors to attract attention.
+
+2. **Important Elements Missed:**
+   - **Subject Matter:** The themes are entirely different; the first image focuses on nutritional information for pregnant women, while the second image is an anniversary infographic about construction.
+   - **Text and Language:** The languages and text content do not match. The first image uses Hindi text related to health, while the second image uses English with construction terminology.
+   - **Imagery Details:** The elements depicted, like food items and nutritional symbols in the first, are not present in the second.
+   - **Cultural and Visual Context:** The first image has cultural depictions relevant to its theme, such as traditional clothing and specific dietary elements.
+
+3. **Improving the Prompt:**
+   - **Specify Theme:** Include details about the nutritional and health-focused theme for pregnant women.
+   - **Cultural Elements:** Mention traditional Indian attire and relevant icons or symbols (e.g., food items, pregnancy-related symbols).
+   - **Language and Text:** State the need for Hindi text and specific dietary or health-related phrases.
+   - **Color Scheme and Layout:** Describe the color palette and layout structure to match the original more closely.
+   - **Target Audience and Purpose:** Clearly define for whom and for what purpose the image should be created, ensuring the context is correctly set.
+
+Consider refining the prompt to incorporate these elements to achieve greater similarity to the reference image.
+Completed iteration 9 with score 0.344
+Iteration 10: Using reference image AAY.png
+Generated prompt: The improved image is a vibrant promotional graphic celebrating the fifth anniversary of the Pradhan Mantri Awas Yojana (Urban). At the center is a circular emblem prominently featuring the number "5," symbolizing the milestone. Positioned in the top right corner is a public figure within a green circular backdrop, representing leadership and guidance.
+
+The text emphasizes innovative construction technologies and notes the completion of over 15 lakh houses, highlighting progress and development. Below this, photographs of residential buildings and active construction sites illustrate various stages of housing development.
+
+Logos of government agencies are strategically placed at the top, reinforcing authenticity and official support. The color scheme of green and white aligns with the governmental theme, complemented by warm tones of orange, yellow, and pink to convey a celebratory feel. The design is brochure-like, with well-defined sections that blend text and imagery, enhancing its promotional tone and clarity.
+Generated new image
+Similarity score: 0.270
+Feedback received: Sure! Here’s a comparison and feedback on the two images:
+
+1. **Aspects Captured Well in the Generated Image:**
+   - **Complexity and Detail:** The second image captures a complex, detailed layout with a lot of elements, similar to how the first image incorporates a variety of visual information.
+   - **Theme of Structure:** There's an emphasis on organization, which aligns with the structured nature of the first image.
+
+2. **Important Elements Missed:**
+   - **Subject Matter:** The first image focuses on a socio-economic theme featuring people and a context relevant to societal programs, whereas the second image is more abstract and symbolic.
+   - **Color Scheme:** The color palette is significantly different; the first image has warm, earthy tones, while the second uses cooler, vibrant greens.
+   - **Text and Language:** The first image includes specific text in Hindi about a government scheme, which is not present in the second image.
+   - **Human Interaction:** The first image shows human interaction and action, while the second is more conceptual and lacks human figures engaged in activity.
+
+3. **How to Improve the Prompt:**
+   - **Specify the Theme:** Include information about the socio-economic theme or government program context to align with the first image’s subject.
+   - **Details on Color Palette:** Use adjectives that describe the warm, earthy tones present in the first image.
+   - **Incorporate Text Elements:** Request text in the appropriate language or specify similar textual elements to enhance contextual similarity.
+   - **Focus on Human Elements:** Describe human figures engaged in a specific activity, as this is a central element of the first image.
+   - **Add Contextual Setting:** Specify a setting that matches the market or distribution scenario depicted in the first image.
+
+By focusing on these elements, the generated image can closely resemble the original theme and context.
+Completed iteration 10 with score 0.270
+Training Generator 2/3
+Iteration 1: Using reference image misc2.png
+Generated prompt: The image is an informative poster focused on planned pregnancy and pregnancy care. At the top, there is a photo of two people standing next to a table with medical supplies. The person on the right is wearing an orange sari and a green mask. The poster's main message, "Planned Pregnancy and Pregnancy Care to Ensure Safe Delivery and Healthy Baby," is highlighted prominently in bold yellow and white text against a dark background.
+
+Below the main message, there are two sections with icons and brief descriptions. The "Planned Pregnancy" section outlines steps such as consulting healthcare professionals and scheduling vaccinations. The "Care During Pregnancy" section emphasizes regular check-ups, balanced nutrition, and appropriate exercise, each accompanied by a relevant icon. The overall design features a color scheme of red, white, and purple, with a wave-like pattern at the bottom, conveying a sense of health and wellness.
+Generated new image
+Similarity score: 0.679
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images focus on the theme of pregnancy and care.
+   - The typography is bold and eye-catching, emphasizing important information.
+   - Use of icons related to healthcare and pregnancy.
+
+2. **Important Elements Missed:**
+   - The first image features a photo with real people, while the second is an illustration.
+   - The color palette is different; the first uses more natural colors, while the second uses a vibrant, artistic scheme.
+   - The layout of information and icons differs significantly between the two.
+
+3. **How to Improve the Prompt:**
+   - Specify the need for a photographic style to match the first image.
+   - Describe the color scheme and setting, emphasizing the real-world look.
+   - Include details about the content layout, such as the placement of text and icons similar to the original.
+   - Mention the inclusion of real-life elements like people and specific objects present in the first image.

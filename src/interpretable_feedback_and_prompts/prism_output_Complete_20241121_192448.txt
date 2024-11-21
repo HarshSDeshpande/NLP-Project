@@ -1,0 +1,803 @@
+Initializing PRISM algorithm...
+Training Generator 1/3
+Iteration 1: Using reference image ABPMJAY.png
+Generated prompt: The image features a banner for the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY). On the left, there's a circular logo with a green and orange design and text. Next to the logo, the program name is prominently displayed in bold pink letters. To the right, there are images of several health cards, showcasing their design and official emblems. On the far right, a collage of diverse individuals, including men, women, and children of varying ages and attire, is labeled "SPOTLIGHT." The background features a soft gradient with subtle patterns, adding a cohesive look to the banner.
+Generated new image
+Similarity score: 0.606
+Feedback received: 1. **Aspects Captured Well:**
+   - **Theme and Concept:** Both images convey themes related to health care and community, reflecting a focus on healthcare programs.
+   - **Color Scheme:** The generated image uses a cohesive color palette with green and peach tones, similar to the original’s use of softer hues.
+
+2. **Important Elements Missed:**
+   - **Specific Branding and Text:** The original image includes specific branding elements and text related to "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana" and concise, structured cards, which are not present in the generated image.
+   - **Layout and Design:** The original image has a more structured layout with specific portraits and their placement, as well as organized text and emblems.
+   - **Cultural Representation:** The generated image has a more generic representation of figures, unlike the original which showcases specific individuals representing diverse communities.
+
+3. **Prompt Improvement Suggestions:**
+   - **Incorporate Specific Text and Branding:** Include specific phrases like "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana" and describe the appearance of the logo and text placement.
+   - **Emphasize Layout Consistency:** Describe the layout in terms of placement of portraits, logo, and cards similar to the reference image.
+   - **Detail Cultural Elements:** Specify the need for a variety of portraits representing diverse cultures and communities, mirroring the original image’s diversity.
+   - **Color and Design Precision:** Describe the exact color tones and design elements like logos or card designs used in the original image.
+Completed iteration 1 with score 0.606
+Iteration 2: Using reference image PMMVY.png
+Generated prompt: The image is a vibrant banner for the Pradhan Mantri Matru Vandana Yojana. In the center, a mother lovingly embraces her baby, symbolizing maternal care. Above them, rays of light create a warm and hopeful atmosphere. In the top left corner, the government emblem is displayed next to the program's logo featuring a heart design in green and orange. Below, the text "खुशखबरी" is prominently featured in bold, red letters. Beneath this, there are four illustrated icons representing registration, initial check-up, delivery at a government hospital, and vaccinations, each accompanied by corresponding monetary incentives. The program name is highlighted in blue letters at the bottom, emphasizing empowerment and national strength. The background is a soft gradient of yellow and orange hues, with subtle patterns adding depth and cohesiveness to the design.
+Generated new image
+Similarity score: 0.649
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images depict a mother holding a baby, conveying a similar theme of maternal care.
+   - The use of warm colors and sun rays in the background is consistent, creating a positive and uplifting mood.
+   - Both images include circular icons and text to communicate information.
+
+2. **Important Elements Missed:**
+   - The original image includes specific text in Hindi related to a government scheme, which is not present or correctly translated in the generated image.
+   - The branding elements, such as logos and specific text placement, are not accurately replicated.
+   - The style and attire of the mother are different, affecting the cultural and thematic representation.
+
+3. **Improvement Suggestions for the Prompt:**
+   - Specify the inclusion of Hindi text related to a government maternal health program, ensuring accurate translation and placement.
+   - Emphasize the need for specific logos or symbols related to government initiatives.
+   - Describe the cultural attire and features more explicitly to match the original illustration better.
+   - Request a closer match in the color scheme and composition of icons and text boxes.
+
+By incorporating these elements, the generated image can achieve greater similarity to the original.
+Completed iteration 2 with score 0.649
+Iteration 3: Using reference image NSAP.png
+Generated prompt: The image is a vibrant banner for the Pradhan Mantri Matru Vandana Yojana, capturing the essence of maternal care and community support. At the center, a mother lovingly holds her baby, symbolizing nurturing and protection. Above them, radiant rays of light create a warm and hopeful atmosphere, enhancing the theme of positivity.
+
+In the top left corner, the government emblem is prominently displayed next to the program's logo, which features a heart design in green and orange, representing health and vitality. Below, the bold red text "खुशखबरी" stands out, conveying a message of joy and announcement.
+
+The lower section includes four illustrated icons, each representing key aspects of the program: registration, initial check-up, delivery at a government hospital, and vaccinations. Each icon is paired with corresponding monetary incentives, clearly depicted to inform and encourage participation.
+
+At the bottom, the program name is highlighted in blue letters, emphasizing empowerment and national strength. The background features a soft gradient of yellow and orange hues, with subtle patterns that add depth and cohesiveness to the design, creating a sense of unity and purpose.
+Generated new image
+Similarity score: 0.332
+Feedback received: 1. **Aspects Captured Well:**
+   - **Color Scheme:** Both images use a vibrant color palette, with warm colors such as oranges and yellows, which creates a visually appealing and optimistic tone.
+   - **Cultural Elements:** The generated image includes cultural motifs, similar to the first image, conveying a sense of community and tradition.
+   - **Central Focus:** Both images have a strong central focus, which grabs attention immediately.
+
+2. **Important Elements Missed:**
+   - **Textual Content:** The first image includes specific text related to schemes and initiatives, which is not present in the generated image.
+   - **Subject Matter:** The original image shows a group of diverse people from different walks of life, whereas the generated image focuses primarily on a mother and child, changing the context entirely.
+   - **Government Branding:** Elements such as logos and affiliations are clear in the original but missing in the generated version.
+   
+3. **Prompt Improvement Suggestions:**
+   - **Include Specific Texts:** Add the names of schemes and indicate the need for textual content in the prompt.
+   - **Diversity in Subjects:** Mention the inclusion of multiple figures representing different worker roles or community members to better match the original group depiction.
+   - **Branding Details:** Specify the need for government logos or affiliations to ensure these elements are included.
+   - **Contextual Setting:** Describe the need for a more informative and initiative-focused theme to mimic the informative nature of the original.
+Completed iteration 3 with score 0.332
+Iteration 4: Using reference image AAY1.png
+Generated prompt: The image is a vibrant banner for the Pradhan Mantri Matru Vandana Yojana, showcasing themes of maternal care and community support. Central to the design, a mother warmly embraces her baby, symbolizing nurturing love. Radiant light emanates from above, creating a hopeful ambiance. In the top left corner, the government emblem is positioned next to the program's logo, which features a heart motif in green and orange, reinforcing national identity.
+
+Prominently displayed in bold red letters, the word "खुशखबरी" captures attention, conveying a message of positivity. Below this, four illustrated icons depict registration, initial check-up, delivery at a government hospital, and vaccinations, each linked with monetary incentives, highlighting the program's benefits.
+
+The program name is prominently featured at the bottom in blue letters, underscoring themes of empowerment and national strength. The background features a soft gradient of yellow and orange hues, with subtle patterns adding depth and cohesiveness to the overall design, enhancing its visual appeal and thematic consistency.
+Generated new image
+Similarity score: 0.209
+Feedback received: 1. **Aspects Captured Well:**
+   - The generated image captures a sense of family and nurturing, similar to the theme seen in the first image.
+   - Both images incorporate cultural elements and a focus on well-being.
+
+2. **Important Elements Missed:**
+   - The original image features specific individuals and objects (e.g., sacks of grain, specific text) related to a food distribution program, which are absent in the generated image.
+   - The generated image has a stylized, illustrative style that differs from the realistic photo style of the original.
+   - Text elements in the original image are specific and related to a particular scheme, while the generated image includes different text and symbols.
+
+3. **How to Improve the Prompt:**
+   - Include details about the photo-realistic style with specific elements like “family with sacks of grain” or “family involved in a food distribution program.”
+   - Mention the inclusion of specific text and emphasize the realism, ensuring elements like smiling family members are central.
+   - Specify the type of setting, focusing on real-life environments and cultural attire relevant to the context.
+Completed iteration 4 with score 0.209
+Iteration 5: Using reference image DDUGKY.png
+Generated prompt: The image is a vibrant promotional banner for the Pradhan Mantri Matru Vandana Yojana. At the center, a mother tenderly embraces her baby, symbolizing maternal care and warmth. Rays of light radiate above them, creating a hopeful and inviting atmosphere. In the top left corner, the government emblem is prominently displayed next to the program's logo, which features a heart design in green and orange, signifying health and vitality. Below this, the word "खुशखबरी" is boldly written in red, capturing attention. 
+
+Further down, four illustrated icons showcase different stages: registration, initial check-up, delivery at a government hospital, and vaccinations. Each icon is paired with text describing the associated monetary incentives. At the bottom, the program's name is highlighted in blue, underlining themes of empowerment and national strength. 
+
+The background features a soft gradient of yellow and orange hues, with subtle patterns that add depth and cohesiveness to the design, enhancing its visual appeal and thematic consistency.
+Generated new image
+Similarity score: 0.433
+Feedback received: 1. **Aspects Captured Well:**
+   - **Cultural Themes:** Both images reflect cultural aspects of India. The generated image captures this through the use of traditional attire and symbols.
+   - **Use of Colors:** The vibrant colors in the generated image are similar in spirit to the energy in the original photo.
+
+2. **Important Elements Missed:**
+   - **Focus of Subject:** The original image is about a group of uniformed individuals, likely signifying teamwork or an organization. The generated image focuses on a mother and child, which does not align with the group theme.
+   - **Text and Logo:** The original image features a prominent logo and text, which are not present in the generated image.
+   - **Setting and Attire:** The setting and attire in the original image suggest a formal or educational environment, which is not reflected in the generated image.
+
+3. **Improving the Prompt:**
+   - **Specific Focus:** To reflect the group theme, include descriptors like "a group of people in uniform" and specify the context (e.g., educational or organizational).
+   - **Include Logos and Texts:** Mention the presence of specific logos or texts, if desired, to highlight organizational branding.
+   - **Environment and Attire:** Specify the desired setting (e.g., "outdoor educational context") and attire (e.g., "uniforms"). This will create a closer match to the original image's theme and setting.
+Completed iteration 5 with score 0.433
+Iteration 6: Using reference image MGNREGA.png
+Generated prompt: The image is a vibrant banner for the Pradhan Mantri Matru Vandana Yojana. At the center, a mother embraces her baby, symbolizing maternal care. Above them, rays of light create a warm and hopeful atmosphere. In the top left corner, the government emblem is displayed alongside the program's logo featuring a heart design in green and orange.
+
+Below, the text "खुशखबरी" is prominently featured in bold, red letters. Beneath this, four illustrated icons represent registration, initial check-up, delivery at a government hospital, and vaccinations, each with corresponding monetary incentives.
+
+The program name is highlighted in blue letters at the bottom, emphasizing empowerment and national strength. The background features a soft gradient of yellow and orange hues, with subtle patterns adding depth and cohesiveness to the design.
+Generated new image
+Similarity score: 0.390
+Feedback received: To provide feedback on the comparison of these two images:
+
+1. **Aspects Captured Well:**
+   - Both images incorporate themes relating to social development and community.
+   - Bright and vibrant colors are used prominently in both images.
+
+2. **Important Elements Missed:**
+   - The first image depicts a rural landscape and a group of people wearing traditional attire, indicating a focus on rural employment and development.
+   - The second image, however, is more abstract, focusing on a mother and child with symbolic and modern elements, and lacks the rural, workforce component of the original.
+   - The contextual elements, such as the terrain and attire specific to the setting in the first image, are missing in the second.
+
+3. **Improving the Prompt:**
+   - To achieve a closer similarity, you can specify:
+     - A rural environment with a group of people engaged in community work.
+     - Traditional attire similar to those worn in rural India.
+     - Inclusion of natural landscapes like fields or trees in the background.
+     - Emphasize the theme of rural development or employment.
+     - Request less abstract or symbolic art, and more realistic depiction.
+
+Refining these elements in the prompt may help achieve a visual style more aligned with the first image.
+Completed iteration 6 with score 0.390
+Iteration 7: Using reference image AAY4.png
+Generated prompt: The image is a vibrant and informative banner for the Pradhan Mantri Matru Vandana Yojana. Central to the design is a touching depiction of a mother tenderly embracing her baby, symbolizing the theme of maternal care. Above them, radiant rays of light create a warm and hopeful atmosphere, enhancing the emotional impact.
+
+In the top left corner, the government emblem is prominently displayed alongside the program's logo, which features a heart design in green and orange, symbolizing love and national pride. Below this, the text "खुशखबरी" is boldly highlighted in red, drawing attention to the joyous news associated with the program.
+
+Beneath, there are four illustrated icons, each representing a key aspect of the program: registration, initial check-up, delivery at a government hospital, and vaccinations. Each icon is accompanied by a depiction of monetary incentives, reflecting the program's support for mothers.
+
+The program name is prominently displayed at the bottom in bold blue letters, emphasizing empowerment and national strength. The background features a soft gradient of yellow and orange hues, with subtle patterns that add depth and cohesiveness to the overall design, creating a warm and inviting visual experience.
+Generated new image
+Similarity score: 0.277
+Feedback received: 1. **Aspects Captured Well**:
+   - Both images use vibrant colors, making them visually striking.
+   - The second image captures a sense of community and care, similar to the first image's theme of welfare and support.
+   - Inclusion of text and symbolic imagery aligns with both graphics being informative posters.
+
+2. **Important Elements Missed**:
+   - The first image has specific cultural and governmental symbols (like the Indian flag and a recognizable figure) which are absent in the second image.
+   - The specific language and style of text in the first image, including its bilingual nature, is not represented in the second.
+   - The theme in the first image, focused on "Antyodaya Anna Yojana," is not directly reflected in the second image.
+
+3. **Improving the Prompt**:
+   - Specify the inclusion of Indian cultural and governmental symbols, such as the flag or other official icons.
+   - Mention the need for specific text or language style to reflect the bilingual aspect (English and Hindi) of the original.
+   - Include details about the themes of social welfare or government programs related to food and nutrition.
+   - Request the inclusion of a recognizable figure or similar visual focus as seen in the original image.
+Completed iteration 7 with score 0.277
+Iteration 8: Using reference image DDUGKY.png
+Generated prompt: The image is a vibrant banner for the Pradhan Mantri Matru Vandana Yojana, capturing the essence of maternal care and government support. In the center, a mother tenderly embraces her baby, symbolizing nurturing and love. Above them, golden rays create a warm and hopeful atmosphere, enhancing the theme of care and positivity.
+
+In the top left corner, the government emblem is prominently displayed alongside the program's logo, which features a heart design in green and orange, reflecting national pride and commitment. Below, the bold red text "खुशखबरी" stands out, drawing attention to the good news associated with the program.
+
+Further down, four illustrated icons depict key program elements: registration, initial check-up, delivery at a government hospital, and vaccinations. Each icon is paired with corresponding monetary incentives, visually conveying the benefits provided to participants.
+
+The program name is highlighted at the bottom in bold blue letters, emphasizing themes of empowerment and national strength. The background features a soft gradient of yellow and orange hues, with subtle patterns that add depth and cohesiveness to the overall design, reinforcing the message of hope and support for mothers.
+Generated new image
+Similarity score: 0.440
+Feedback received: **Comparison Feedback:**
+
+1. **Aspects Captured Well:**
+   - The second image captures a theme of empowerment and care, which is subtly reflected in the first image's context of education and development.
+   - Both images have a prominent use of text and logos or symbols, drawing attention to key messages.
+
+2. **Important Elements Missed:**
+   - The first image depicts a group of people in uniforms, clearly associated with a specific program. The second image misses the group context and uniformed attire.
+   - Cultural and contextual elements from the first image, such as specific clothing and the actual setting, are not present in the second image.
+   - The focus on training or education is absent in the second image.
+
+3. **Improving the Prompt:**
+   - Specify the number of people and mention uniforms to capture the group setting accurately.
+   - Emphasize the specific program or initiative, such as “DDU-GKY educational initiative in India.”
+   - Include cultural references to ensure accurate depiction of attire and setting.
+   - Mention elements like teamwork, empowerment in education, and professional training.
+Completed iteration 8 with score 0.440
+Iteration 9: Using reference image ABPMJAY.png
+Generated prompt: The image is a vibrant banner for the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana. On the left, the program's emblem is prominently displayed, featuring a stylized green and orange design. To the right, the program name is written in bold, pink letters against a soft gradient background, creating a sense of warmth and accessibility.
+
+The center of the banner showcases Ayushman Bharat health cards, signifying the initiative's focus on providing healthcare access. The cards are depicted with official government logos, ensuring authenticity and trust.
+
+On the far right, a collage of diverse individuals, including elderly people, women, and children, highlights the program's inclusivity and community impact. Each person's expression reflects hope and well-being, reinforcing the theme of empowerment.
+
+The overall color scheme of the image is light and welcoming, with subtle patterns in the background adding depth and continuity. The banner effectively communicates the program's mission of providing healthcare to all, emphasizing national strength and unity.
+Generated new image
+Similarity score: 0.491
+Feedback received: Sure, here's a comparison of the two images:
+
+1. **Aspects Captured Well:**
+   - **Theme of Healthcare:** Both images focus on healthcare programs, with visible cards and the concept of universal access.
+   - **Use of Cards:** Both images effectively use the visual of healthcare cards as a central element.
+   - **Diverse Representation:** The generated image attempts to show diversity among people, similar to the real image.
+
+2. **Important Elements Missed:**
+   - **Specific Branding:** The real image has specific branding related to "Ayushman Bharat" which is not present in the generated image.
+   - **Photographic Reality:** The real image uses actual photographs which give a realistic context, while the generated image uses illustrations.
+   - **Cultural Context:** The real image shows people in a cultural setting relevant to the program, which is not reflected in the generated image.
+
+3. **Improving the Prompt:**
+   - **Incorporate Specific Program Names:** Mention "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana" specifically to capture the exact branding.
+   - **Add Photographic Detail:** Specify a mix of photographic elements instead of illustrations to capture reality.
+   - **Cultural Contextualization:** Include specifics about cultural attire or settings to match the demographic focus of the actual program. 
+   - **Highlight Real People:** Indicate the need for diverse, realistic depictions of individuals related to healthcare. 
+
+Adjusting the focus towards these elements can help in generating an image that closely resembles the original.
+Completed iteration 9 with score 0.491
+Iteration 10: Using reference image misc1.png
+Generated prompt: The image is a vibrant banner for the Pradhan Mantri Matru Vandana Yojana, focusing on maternal care and empowerment. At the center, a mother lovingly embraces her baby, symbolizing nurturing and hope. Radiant rays of light surround them, creating a warm, optimistic atmosphere. In the top left corner, the government emblem is displayed alongside the program's logo, featuring a heart design in green and orange, reflecting the initiative's commitment to health and well-being.
+
+Prominently, the word "खुशखबरी" is displayed in bold, red letters, conveying positive news. Below this text, four illustrated icons depict key stages of the program: registration, initial check-up, delivery at a government hospital, and vaccinations. Each icon is paired with corresponding monetary incentives, highlighting the program's tangible benefits.
+
+The program name is emphasized in blue letters at the bottom, underscoring themes of empowerment and national strength. The background features a soft gradient of yellow and orange hues, with subtle patterns that add depth and cohesiveness to the design, enhancing the overall message of care and support.
+Generated new image
+Similarity score: 0.360
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images use a warm color palette, which creates a comforting feel.
+   - Both feature a central human figure, indicating a sense of care and interaction.
+   - Use of circular icons in both images to convey information.
+
+2. **Important Elements Missed:**
+   - The specific branding and text details, such as logos and QR codes, in the original are not present in the generated image.
+   - The theme of government schemes in the original is not accurately translated; the generated image seems more focused on healthcare.
+   - Background scenery and elements, like the field in the original, are missing in the generated image.
+
+3. **Improving the Prompt:**
+   - Specify the inclusion of specific text and logos, including "myScheme" and relevant government symbols.
+   - Mention the need for a background that includes natural elements like fields to match the original setting.
+   - Indicate the purpose of the image as relating to government schemes rather than healthcare or vaccination themes.
+   - Clarify the inclusion of multiple figures, if required, to mirror the interaction depicted in the original.
+Completed iteration 10 with score 0.360
+Training Generator 2/3
+Iteration 1: Using reference image PMMVY.png
+Generated prompt: The image is a government promotional poster for the "Pradhan Mantri Matru Vandana Yojana" in Hindi. It features an illustration of a mother tenderly holding her baby with a warm, radiant background. The poster outlines financial incentives for pregnant women:
+
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total amount offered is ₹6000. The poster is branded with the government emblem and logos related to the scheme, emphasizing maternal empowerment. Contact information and a website URL are provided for further details.
+Generated new image
+Similarity score: 0.775
+Feedback received: 1. **Well-Captured Aspects:**
+   - **Mother and Child Theme:** Both images feature a woman holding a baby, capturing the essence of motherhood.
+   - **Color Palette:** Warm tones and sunburst designs are used in both, maintaining a similar color scheme and style.
+   - **Central Radiance:** The use of radiant lines behind the main figures is consistent in both images.
+
+2. **Missed Elements:**
+   - **Text Details:** The generated image uses different text, words, and numbers, deviating from the original's informational content.
+   - **Cultural Symbols:** Traditional patterns and symbols present in the generated image differ from the initial poster, which focuses more on direct information.
+   - **Text Alignment and Style:** The layout and font style of the text vary greatly, affecting readability and purpose.
+
+3. **Prompt Improvement Suggestions:**
+   - **Specify Text Details:** Clearly describe the exact wording, language, and font style to achieve accurate text replication.
+   - **Focus on Layout:** Emphasize the alignment and configuration of elements, including positioning of text and icons.
+   - **Cultural Elements:** Highlight the need for specific cultural symbols or methods, or their absence, to better match the original poster's design.
+Completed iteration 1 with score 0.775
+Iteration 2: Using reference image PMAY1.png
+Generated prompt: The image is a government promotional poster for the "Pradhan Mantri Matru Vandana Yojana" in Hindi. It prominently features an illustration of a mother gently holding her baby, set against a warm, radiant background that symbolizes care and nurturing. The design uses sunburst patterns to create a sense of warmth and positivity.
+
+### Financial Incentives Outlined:
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total financial assistance provided is ₹6000. 
+
+### Design Elements:
+- The poster includes the official government emblem and logos associated with the scheme, reinforcing credibility and trust.
+- Text is presented clearly in Hindi, using a legible font that ensures readability.
+- Contact information and a website URL are included for additional resources and inquiries.
+
+### Visual and Cultural Focus:
+- The illustration captures the essence of maternal empowerment and well-being.
+- Traditional patterns or symbols are minimized to maintain a focus on the informational content of the scheme.
+
+### Recommendations for Future Designs:
+- Ensure text accuracy by clearly specifying wording and font details.
+- Maintain consistency in cultural representation to align with the poster's objective of straightforward information dissemination.
+Generated new image
+Similarity score: 0.644
+Feedback received: Based on the images provided, here is the feedback:
+
+1. **Aspects Captured Well:**
+   - Both images incorporate elements of a government scheme, as suggested by the text and logos.
+   - The use of text in Hindi suggests a connection to Indian governmental themes.
+   - The generated image includes official insignia, which is a common element in government-related graphics.
+
+2. **Important Elements Missed:**
+   - The first image prominently features houses, which signifies a housing scheme. This is absent in the generated image.
+   - The logo and branding elements in the first image (e.g., "Pradhan Mantri Awas Yojana" logo) are not reflected in the generated image.
+   - The overall theme differs; the first image is focused on housing, while the generated one centers on maternal and child welfare.
+
+3. **How to Improve the Prompt:**
+   - Specify the theme more clearly, such as "housing scheme" or "Pradhan Mantri Awas Yojana, showing residential buildings.”
+   - Include explicit instructions on including specific logos or symbols related to housing.
+   - Mention the need for architectural elements or housing visuals to align with the theme of the first image.
+
+Adjusting the prompt with these suggestions should help increase the similarity between the two images.
+Completed iteration 2 with score 0.644
+Iteration 3: Using reference image PMGSY.png
+Generated prompt: The image is a government promotional poster for the "Pradhan Mantri Matru Vandana Yojana" presented in Hindi. It features a warm and inviting illustration of a mother tenderly holding her baby, set against a radiant background with sunburst designs. This visual theme emphasizes the nurturing and supportive nature of the scheme.
+
+Text elements are clearly presented, detailing the financial incentives available for pregnant women under the scheme:
+
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total financial assistance offered totals ₹6000. The poster prominently displays the government emblem and relevant scheme logos, reinforcing the theme of maternal empowerment and care. Contact information and a website URL are included for further inquiries, ensuring accessibility to more details.
+
+The design maintains a balance between cultural representation and informational clarity, using traditional patterns subtly to enhance the message without overshadowing the primary content.
+Generated new image
+Similarity score: 0.262
+Feedback received: To effectively compare the two images, let's break it down into the requested points:
+
+### 1. Aspects Captured Well in the Generated Image:
+- **Text Elements:** Both images include text elements, focusing on numbers and informational content.
+- **Color Contrast:** The generated image uses high-contrast colors similar to those in the original image, especially the prominence of bold colors to focus attention.
+- **Graphical Elements:** Both images utilize illustrative designs around the central theme.
+
+### 2. Important Elements Missed:
+- **Theme and Subject Matter:** The original image focuses on road development with a landscape background, while the generated image is centered around a maternal healthcare theme with human characters.
+- **Brand and Text Alignment:** The original image includes a governmental branding element (“Invest India”) and clear statistics related to infrastructure, which are not present in the generated image.
+- **Imagery Style:** The first image uses a realistic photographic style, while the second one is more of an artistic illustration.
+
+### 3. Improving the Prompt:
+To generate an image more similar to the first one, consider the following suggestions for refining the prompt:
+- **Specify Subject Matter:** Clearly specify the focus on road development or infrastructure with rural scenic backgrounds.
+- **Include Branding Elements:** Mention the inclusion of government logos or official branding.
+- **Photographic Style:** Request a realistic photographic style rather than an illustrative one.
+- **Quantitative Data:** Include numbers related to infrastructure in the visual representation, similar to the statistics in the first image.
+
+Adjusting the prompt with these specific elements in mind will help achieve a closer resemblance to the original image.
+Completed iteration 3 with score 0.262
+Iteration 4: Using reference image misc.png
+Generated prompt: The image is a government promotional poster for the "Pradhan Mantri Matru Vandana Yojana" in Hindi. It features an illustration of a mother tenderly holding her baby, set against a warm, radiant background with sunburst designs. The poster details financial incentives for pregnant women, clearly laid out with specific amounts:
+
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total financial support offered is ₹6000. The design includes the government emblem and scheme logos, emphasizing maternal empowerment and support. For further information, contact details and a website URL are provided at the bottom of the poster, ensuring accessibility for interested individuals. The consistent use of warm tones and radiant lines highlights the theme of care and empowerment.
+Generated new image
+Similarity score: 0.236
+Feedback received: 1. **Aspects Captured Well in the Generated Image:**
+   - Both images have a structured, organized layout.
+   - There’s a clear central focus in each image (a person in each case).
+   - Text is prominently featured and prioritized.
+
+2. **Important Elements Missed:**
+   - The original image includes specific themes such as airplanes and a military context, which are absent in the generated image.
+   - Text style and type differ. The original uses a modern, digital style, while the generated image features more traditional, artistic text.
+   - The color schemes are quite different, with the original having a more modern corporate palette and the generated image using warm, illustrative tones.
+
+3. **Improving the Prompt:**
+   - Specify elements like military themes, airplanes, and a digital interface.
+   - Mention specific color schemes and design styles (modern, corporate).
+   - Include details about the text style, layout, and type of imagery (e.g., vector, digital graphics).
+
+Consider mentioning specific objects and colors, as well as the general theme and tone desired, in the prompt.
+Completed iteration 4 with score 0.236
+Iteration 5: Using reference image AAY4.png
+Generated prompt: Based on recent learnings, here's an improved image description for the government promotional poster:
+
+---
+
+The image is a government promotional poster for the "Pradhan Mantri Matru Vandana Yojana" presented in Hindi. It features a heartwarming illustration of a mother lovingly holding her baby, set against a backdrop of warm, radiant hues symbolizing care and empowerment. The poster details the financial incentives provided to support pregnant women through various stages:
+
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total financial assistance amounts to ₹6000. The design includes the government emblem and relevant logos to reinforce the legitimacy and focus on maternal empowerment. Additional contact information and a website URL are provided for viewers seeking further details. The overall theme emphasizes maternal and child welfare, aligning with the objectives of the scheme.
+Generated new image
+Similarity score: 0.429
+Feedback received: 1. **Aspects Captured Well:**
+   - **Government Theme:** Both images convey a governmental message related to social welfare schemes.
+   - **Informative Elements:** Both images use textual elements to explain benefits and procedures.
+   - **Cultural Context:** The generated image incorporates traditional attire and symbols likely indicative of the region.
+
+2. **Important Elements Missed:**
+   - **Specific Branding and Icons:** The original image includes specific emblems, logos, and a photograph that were not replicated.
+   - **Language and Text Style:** The fonts and languages used differ significantly, affecting recognition.
+   - **Color Scheme:** The original image has a clear blue and orange palette that wasn't captured in the generated image.
+
+3. **Improvement Suggestions for the Prompt:**
+   - **Specify Logos and Icons:** Include details about any logos or flags and their placement.
+   - **Exact Color Scheme:** Mention the key colors to ensure matching tones.
+   - **Text Specifications:** Specify the language, font type, and whether any text elements should resemble official styles.
+   - **Figures and Layout:** Indicate if a specific person or arrangement from the original should be mirrored in the generated image.
+Completed iteration 5 with score 0.429
+Iteration 6: Using reference image DDUGKY.png
+Generated prompt: The image is a government promotional poster for the "Pradhan Mantri Matru Vandana Yojana," presented in Hindi. It prominently features an illustration of a mother tenderly holding her baby against a warm, radiant background, symbolizing maternal care and support. 
+
+The poster outlines the financial incentives available to pregnant women under the scheme:
+
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total financial assistance provided amounts to ₹6000. The poster is distinctly branded with the government emblem and relevant scheme logos, underscoring themes of maternal empowerment and support.
+
+Additionally, contact information and a website URL are included for viewers to obtain further details about the scheme, ensuring accessibility and engagement.
+Generated new image
+Similarity score: 0.414
+Feedback received: To effectively compare these images, here’s the analysis:
+
+1. **Aspects Captured Well:**
+   - Both images incorporate text prominently, using signage or informational design.
+   - The use of blue is present in both images, which may suggest a theme or mood.
+
+2. **Important Elements Missed:**
+   - The first image features a group of people wearing uniforms with a specific logo and setting (likely educational or institutional), while the second image is an illustrated poster focusing on a mother and child with informative content.
+   - The themes and subjects are entirely different; the first is about an organization or training program, while the second is a health or welfare-related infographic.
+
+3. **How to Improve the Prompt:**
+   - Clearly specify the focus on people in uniform, an organizational setting, and particular logo elements for the generated image.
+   - Include details on the type of clothing, actions (e.g., walking in formation), and the context (e.g., educational, training environment).
+   - Describe the environment and any specific text or logos desired in the image.
+
+Refining the prompt to align more closely with the unique elements of the first image should enhance the similarity score.
+Completed iteration 6 with score 0.414
+Iteration 7: Using reference image NSAP.png
+Generated prompt: The image is a government promotional poster for the "Pradhan Mantri Matru Vandana Yojana" in Hindi. It features an illustration of a mother tenderly holding her baby, set against a warm and radiant background, symbolizing care and warmth. The poster outlines financial incentives for pregnant women:
+
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total amount offered is ₹6000. The design includes the government emblem and specific logos related to the scheme to emphasize maternal empowerment and support. Contact information and a website URL are provided for further details, ensuring accessibility to more information. The color scheme aligns with a traditional and official tone, using warm, inviting hues to create an approachable and informative visual.
+Generated new image
+Similarity score: 0.284
+Feedback received: 1. **Aspects Captured Well in the Generated Image:**
+   - **Theme and Design:** Both images have a thematic representation of social welfare and empowerment. They incorporate text with supporting visuals to convey messages.
+   - **Color Schemes:** The color palettes, though different, effectively use warm and inviting tones.
+
+2. **Important Elements Missed:**
+   - **Imagery Focus:** The original image focuses on a group of diverse individuals representing various social programs, while the generated image focuses on a specific aspect of maternal care.
+   - **Text Content and Arrangement:** The text in the original image is more concise and varied across different programs. In the generated image, the text and focal points are different, focusing entirely on maternal care benefits.
+   - **Cultural and Symbolic Icons:** The original image features government logos and scheme names, which are not present in the generated image.
+
+3. **How to Improve the Prompt:**
+   - **Include Specific Details:** Request a focus on multiple social schemes featuring various individuals to reflect diversity.
+   - **Text Instructions:** Specify different text elements representing distinct programs, along with logos and government symbols.
+   - **Emphasize Group Dynamics:** Emphasize including a group of people from different demographics to capture the community aspect.
+   - **Layout Structure:** Indicate a structured design with text and visual elements balanced throughout the image.
+
+By refining these aspects, the generated image can achieve a higher similarity score.
+Completed iteration 7 with score 0.284
+Iteration 8: Using reference image AAY2.png
+Generated prompt: The image is a government promotional poster for the "Pradhan Mantri Matru Vandana Yojana" in Hindi. It features an illustration of a mother tenderly holding her baby, set against a warm, radiant background symbolizing care and support. The poster details financial incentives for pregnant women, presented in a clear, structured format:
+
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total amount offered is prominently displayed as ₹6000. The poster includes the government emblem and related logos, emphasizing the theme of maternal empowerment. Contact information and a website URL are also provided for further details, ensuring accessibility and engagement. The overall design uses inviting, warm color tones to attract viewers and convey a sense of support and community.
+Generated new image
+Similarity score: 0.313
+Feedback received: Certainly! Here's a comparison of the two images:
+
+1. **Aspects Captured Well:**
+   - **Textual Elements:** Both images feature text prominently, focusing on welfare schemes.
+   - **Symbolism and Emblems:** Both images incorporate symbols or icons that emphasize government schemes and programs.
+
+2. **Important Elements Missed:**
+   - **Subject Matter:** The first image illustrates a family and basic amenities, while the second focuses on maternal care.
+   - **Color Scheme:** The first is predominantly orange with minimalistic graphics; the second uses a warm gradient with intricate detailing.
+   - **Style and Composition:** The first is very minimalistic; the second is more detailed and realistic with a focus on human figures.
+
+3. **Improving the Prompt:**
+   - Specify the **focus on family and basic amenities**, if that's the goal.
+   - Highlight the **use of a minimalistic style** with fewer intricate details.
+   - Emphasize the desired **color palette,** such as dominant orange tones.
+   - Mention inclusion of particular **symbols or graphic elements** relevant to the specific welfare scheme depicted in the first image.
+
+By tailoring the prompt with these aspects, you can achieve a closer match in style and content.
+Completed iteration 8 with score 0.313
+Iteration 9: Using reference image PMAY1.png
+Generated prompt: The image is a government promotional poster for the "Pradhan Mantri Matru Vandana Yojana" in Hindi. It features an illustration of a mother tenderly holding her baby against a warm, radiant background, symbolizing care and support. The poster provides information about financial incentives for pregnant women:
+
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total amount offered is ₹6000. The poster includes the government emblem and logos associated with the scheme, highlighting maternal empowerment. Contact information and a website URL are provided for further details, ensuring easy access to more information.
+Generated new image
+Similarity score: 0.550
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images have a focus on Indian cultural themes.
+   - The use of warm colors is prominent in both, though more vivid in the generated image.
+   - There is an element of traditional illustration style in both images.
+
+2. **Important Elements Missed:**
+   - The first image includes houses and a government scheme logo, which are absent in the generated image.
+   - The second image focuses on a mother and child with text and visuals related to health, which differ significantly from the subject matter of the first image.
+
+3. **Improving the Prompt:**
+   - Include specific elements like "government scheme logo, traditional Indian houses."
+   - Specify the inclusion of architectural themes and logos.
+   - Maintain a neutral color tone if a professional or official vibe is desired.
+
+To increase similarity and accuracy, ensure the prompt explicitly describes the core elements and themes of the first image.
+Completed iteration 9 with score 0.550
+Iteration 10: Using reference image NSAP1.png
+Generated prompt: The improved image description for the government promotional poster of the "Pradhan Mantri Matru Vandana Yojana" in Hindi is as follows:
+
+The poster prominently features an illustration of a mother gently cradling her baby, set against a warm, radiant backdrop that symbolizes care and protection. This visually engaging design is enriched with a harmonious blend of inviting colors, enhancing the emotional connection to the theme of maternal empowerment.
+
+Key financial incentives for pregnant women are clearly outlined in a structured and concise format:
+1. **Registration Incentive**: ₹1000
+2. **First Check-up**: ₹2000
+3. **Delivery in Government Hospital**: ₹1000
+4. **Vaccination and Birth Registration of the Child**: ₹2000
+
+The total financial assistance amounts to ₹6000. 
+
+The poster is branded with the official government emblem and logos specific to the scheme, emphasizing authenticity and institutional support. These elements are strategically placed to balance with the textual information, ensuring clarity and cohesion.
+
+Contact information and a website URL are provided at the bottom for easy access to further details, making the poster both informative and accessible.
+
+Overall, the design effectively conveys a broader theme of social welfare and support for maternal health, aligning with the empowering message of the scheme.
+Generated new image
+Similarity score: 0.570
+Feedback received: 1. **Aspects Captured Well:**
+
+   - **Theme:** Both images focus on social assistance and health, targeted at Indian contexts.
+   - **Text Elements:** Both images contain text information, suggesting eligibility and benefits.
+   - **Cultural Representation:** The generated image captures Indian cultural elements using traditional attire.
+
+2. **Important Elements Missed:**
+
+   - **Specific Imagery:** The original image includes the Aadhaar logo, Indian government emblem, and specific program references, which are absent in the generated image.
+   - **Layout and Style:** The original uses a photo montage approach, while the generated image is stylized and illustrative.
+   - **Details:** The original image shows a wider depiction of people involved in the program, whereas the generated image focuses solely on a mother and child.
+
+3. **Improving the Prompt:**
+
+   - **Include Specific Logos:** Mention the inclusion of logos like Aadhaar and the Indian government emblem.
+   - **Mention Layout Style:** Request a photo montage style similar to a collage.
+   - **Detail the Setting:** Specify the need for multiple people and activities depicted to mirror the assistance program context.
+   - **Focus on Program Elements:** Include terms like "National Social Assistance Programme" for direct reference.
+Completed iteration 10 with score 0.570
+Training Generator 3/3
+Iteration 1: Using reference image misc3.png
+Generated prompt: The image is a public health poster with a focus on treating diarrhea. At the top, there is a government emblem, indicating official endorsement. The main text reads, "Why wait for Diarrhea to get over on its own?" with emphasis on immediate treatment. Below this, there is an illustration of a healthcare worker speaking with a family—a mother holding a child and a father. The healthcare worker is handing them a packet of oral rehydration salts (ORS) and zinc tablets, depicted in a circular graphic with the recommendation "14 DAYS" prominently displayed. The poster advises contacting a health worker immediately if diarrhea symptoms occur. At the bottom, there are logos of health organizations, emphasizing the campaign's credibility. The overall design uses a warm color palette to draw attention to the message.
+Generated new image
+Similarity score: 0.636
+Feedback received: **Comparison of the Images:**
+
+1. **Aspects Captured Well:**
+   - **Theme:** Both images focus on a public health message about diarrhea.
+   - **Textual Format:** The main message is prominently placed at the top of both images.
+   - **Illustrative Style:** Both use an illustrated style conveying educational content.
+
+2. **Important Elements Missed:**
+   - **Text Accuracy:** The generated image's text is jumbled and unclear, unlike the original, which has clear messaging.
+   - **Icons and Logos:** The branding and logos at the bottom of the original are not accurately reproduced.
+   - **Medication Visuals:** The representation of Zinc and O.R.S. is different; the generated image lacks the specific medical imagery shown in the original.
+   - **Layout and Composition:** The original has a simple setup focusing on the medication; the generated image introduces more characters and complex background scenarios not present in the original.
+
+3. **Improvement Suggestions for Prompt:**
+   - Specify the presence of Zinc and O.R.S. tablets or packaging prominently.
+   - Clarify the need for accurate text replication, including the message and any branding.
+   - Limit the number of characters and background elements to focus on the central theme.
+   - Detail the need for simplicity in graphics to match the minimalistic style of the original image.
+Completed iteration 1 with score 0.636
+Iteration 2: Using reference image ABPMJAY.png
+Generated prompt: Based on the learnings and feedback, here's an improved image description:
+
+The image is a public health poster focused on treating diarrhea. At the top, an official government emblem signifies endorsement. The main text boldly states, "Why wait for Diarrhea to get over on its own?" highlighting the urgency of immediate treatment. Below, an illustration depicts a healthcare worker interacting with a family—a mother holding a child and a father. The healthcare worker is handing them a packet of oral rehydration salts (ORS) and zinc tablets, enclosed in a circular graphic with "14 DAYS" prominently displayed, emphasizing the treatment duration.
+
+The poster advises contacting a health worker immediately if diarrhea symptoms appear. At the bottom, logos of health organizations reinforce the campaign's credibility. The design employs a warm color palette to effectively draw attention to the message, maintaining clarity and authenticity. The layout is minimalistic, ensuring the focus remains on the key elements: the message, the illustration, and the branding.
+Generated new image
+Similarity score: 0.422
+Feedback received: To improve the similarity between these two images, here’s an analysis and recommendation:
+
+1. **Aspects Captured Well:**
+   - Both images have a healthcare theme.
+   - They include text and human figures, aiming at conveying an informative message.
+
+2. **Important Elements Missed:**
+   - **Logos and Branding:** The first image includes specific logos and branding related to the Indian government scheme, which are absent in the generated image.
+   - **Cultural Representation:** The original image shows people from diverse Indian cultural backgrounds, whereas the generated image does not depict this aspect.
+   - **Focus on Specific Scheme:** The first image is about the Ayushman Bharat healthcare program while the generated image is about diarrhea treatment.
+
+3. **Improving the Prompt:**
+   - Specify the inclusion of certain logos and branding related to Indian government healthcare schemes.
+   - Describe the desired cultural representation and attire for diversity.
+   - Mention "Ayushman Bharat scheme with multiple cultural photos" to stress the need for a similar layout.
+   - Focus on indicating a broader healthcare theme with specific program references instead of a different health issue.
+
+These adjustments in the prompt should help achieve a closer visual and contextual alignment between the two images.
+Completed iteration 2 with score 0.422
+Iteration 3: Using reference image misc2.png
+Generated prompt: The image is a public health poster focused on treating diarrhea. At the top, an official government emblem signifies endorsement. The main text reads, "Why wait for Diarrhea to get over on its own?" highlighting the need for immediate treatment. Below, an illustration depicts a healthcare worker interacting with a family—a mother holding a child and a father. The healthcare worker hands them a packet of oral rehydration salts (ORS) and zinc tablets, shown in a circular graphic with "14 DAYS" prominently displayed. The poster advises consulting a health worker immediately if diarrhea symptoms appear. At the bottom, logos of health organizations emphasize the campaign's credibility. The design uses a warm color palette to draw attention to the message.
+Generated new image
+Similarity score: 0.458
+Feedback received: Certainly! Here's a comparison of the two images:
+
+### Aspects Captured Well:
+1. **Theme of Healthcare:** Both images focus on health-related themes, targeting issues like pregnancy care and children's health.
+2. **Informative Structure:** Both posters aim to provide information in a structured way, using headings and visual icons.
+3. **Use of Icons:** Each image includes icons to communicate specific points effectively.
+
+### Important Elements Missed:
+1. **Cultural Context:** The original image reflects a specific cultural setting, indicated by traditional clothing and setting, which is absent in the generated image.
+2. **Color Scheme and Visual Style:** The first image uses real-life photography with bright, realistic colors, whereas the second uses an illustration style with different color tones.
+3. **Text Clarity:** The text in the original is clear and focused on pregnancy care. The text in the generated image seems unclear and unrelated to the initial theme.
+
+### How to Improve the Prompt:
+1. **Incorporate Cultural Elements:** Specify elements like traditional clothing or settings if aiming for a similar cultural representation.
+2. **Request Realism:** Ask for realistic or photographic qualities instead of an illustrated style to match the original visual approach.
+3. **Specify Text Content:** Include specific text related to pregnancy care to align the message and purpose.
+4. **Color and Design:** Mention bright, realistic colors and a layout focused on icons alongside people to enhance similarity.
+
+With these enhancements, the generated image could potentially achieve a higher similarity score.
+Completed iteration 3 with score 0.458
+Iteration 4: Using reference image misc.png
+Generated prompt: The image is a public health poster focused on treating diarrhea, featuring a clear and informative layout. At the top, there's a government emblem, indicating official endorsement and lending credibility. The main text reads, "Why wait for Diarrhea to get over on its own?" emphasizing the importance of immediate treatment. 
+
+Below, an illustration shows a healthcare worker engaging with a family—a mother holding a child and a father. The healthcare worker is handing them a packet of oral rehydration salts (ORS) and zinc tablets, highlighted within a circular graphic with "14 DAYS" prominently displayed, stressing the recommended treatment duration.
+
+The poster advises contacting a health worker immediately at the onset of diarrhea symptoms. At the bottom, logos of health organizations further establish the campaign's credibility. The design employs a warm color palette to draw attention and convey urgency, enhancing the overall impact of the health message.
+Generated new image
+Similarity score: 0.240
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images use textual elements prominently to convey their main message.
+   - Each image includes figures in uniform, although their roles differ.
+
+2. **Important Elements Missed:**
+   - The theme is quite different; the first image is about the Indian Air Force, while the second image is related to health advice on "diarrhoea."
+   - The distinct color schemes; the first image has a modern, official look, while the second image has a vintage, illustrated style.
+   - The use of technology and aircraft in the first image is not present in the second.
+   - The target demographic and tone differ significantly.
+
+3. **How to Improve the Prompt:**
+   - Focus on the specific theme related to the Indian Air Force Day, including military aircraft and technological elements.
+   - Specify the modern and official style of the layout.
+   - Incorporate elements that suggest a digital or technological aspect, like a mobile phone interface.
+   - Adjust the color palette to reflect a more contemporary, official look.
+   - Mention the importance of national symbols or flags if applicable.
+Completed iteration 4 with score 0.240
+Iteration 5: Using reference image ABPMJAY.png
+Generated prompt: This image is a public health poster designed to promote the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana, with an emphasis on diverse Indian cultural representation. On the left, the Ayushman Bharat PM-JAY logo is prominently displayed, highlighting the official nature of the program. The main text, "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana," is presented in bold letters, signifying the scheme's importance and reach.
+
+To the right, a series of images showcases individuals from various cultural backgrounds, including men and women in traditional attire such as turbans and saris, reflecting India's diverse population. These images underline the inclusivity and nationwide scope of the healthcare initiative.
+
+The design uses a warm, welcoming color palette to draw attention and convey a sense of care and community. The overall layout is structured to provide both visual appeal and informative content, ensuring that viewers understand the program's impact and accessibility.
+Generated new image
+Similarity score: 0.492
+Feedback received: 1. **Aspects Captured Well:**
+   - The generated image successfully captures the diverse representation of people, which is a key element in both images.
+   - The use of similar cultural attire and headgear is noticeable and aligns well with the authentic image.
+   - A consistent focus on health and national initiative themes is present in both visuals.
+
+2. **Important Elements Missed:**
+   - The original image includes specific branding elements such as the Ayushman Bharat logo and specific program cards, which are not present in the generated image.
+   - Textual content differs; the original has specific Hindi text, while the generated image lacks this precise transcription and uses different English text.
+   - The overall layout and format differ significantly, with the original having a more horizontal presentation and the generated being poster-style.
+   - Authentic image includes photos while generated uses illustrated depictions.
+
+3. **How to Improve the Prompt:**
+   - Include specific mentions of the "Ayushman Bharat" program and its logo to ensure these elements are captured.
+   - Request the inclusion of real-life elements, like identity cards or similar physical items depicted in the original.
+   - Specify the horizontal layout and design more clearly to match the original image format.
+   - Mention the integration of both Hindi and English text to accurately reflect the bilingual nature of the content.
+Completed iteration 5 with score 0.492
+Iteration 6: Using reference image NSAP.png
+Generated prompt: The improved image description is as follows:
+
+This public health poster focuses on the immediate treatment of diarrhea and features a government emblem at the top to signify official endorsement. The main text boldly asks, "Why wait for Diarrhea to get over on its own?" emphasizing the urgency of treatment. Below, there's a realistic illustration of a healthcare worker interacting with a family—a mother holding a child, and a father. The healthcare worker hands them a packet of oral rehydration salts (ORS) and zinc tablets, highlighted in a circular graphic with "14 DAYS" prominently displayed to emphasize the recommended treatment duration.
+
+The poster advises contacting a health worker immediately if diarrhea symptoms occur, ensuring clarity in its call to action. At the bottom, logos of health organizations are displayed, reinforcing the campaign's credibility and authenticity. The design utilizes a warm color palette to effectively draw attention to the critical health message.
+Generated new image
+Similarity score: 0.156
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images feature educational and informational themes.
+   - They both include text prominently in the design.
+   - Each image uses a central emblem or logo-like element.
+
+2. **Important Elements Missed:**
+   - The first image outlines specific government schemes and uses real people, while the second has a more abstract, graphic style with illustrations.
+   - The color schemes are very different; the first uses more vibrant colors whereas the second uses a muted, vintage palette.
+   - The themes are different; the first is about social welfare schemes and the second focuses on medical/health information.
+
+3. **Improving the Prompt:**
+   - Specify the color scheme to match the original image (e.g., incorporate bright, modern colors).
+   - Include real-life imagery and specify the inclusion of diverse people to capture the original's demographic focus.
+   - Mention specific themes like "social welfare" or "government programs" to align with the content.
+   - Add details about layout elements, like banners, logos, and arrangements of people.
+
+By incorporating these elements, the generated image can better align with the original's intent and design.
+Completed iteration 6 with score 0.156
+Iteration 7: Using reference image AAY.png
+Generated prompt: The image is a public health poster focused on treating diarrhea, designed to convey an urgent call to action. At the top, the official government emblem signifies endorsement and authenticity. The main text boldly asks, "Why wait for Diarrhea to get over on its own?" emphasizing the importance of immediate treatment.
+
+Central to the image is an illustration of a healthcare worker engaging with a family—a mother holding a child and a father. The healthcare worker is handing them a packet of oral rehydration salts (ORS) and zinc tablets, encased in a circular graphic highlighting the "14 DAYS" recommendation for treatment duration.
+
+The poster urges immediate contact with a health worker if diarrhea symptoms occur, reinforcing the need for prompt intervention. At the bottom, logos of reputable health organizations lend credibility to the campaign.
+
+The design employs a warm color palette, effectively drawing attention to the message and creating a sense of urgency and care.
+Generated new image
+Similarity score: 0.242
+Feedback received: Based on the two images, here is the feedback:
+
+1. **Aspects Captured Well in the Generated Image:**
+   - Both images contain textual elements with a focus on public awareness.
+   - The presence of a family group in the context of a social program or health-related topic.
+   - Use of bold, attention-grabbing fonts for the main messages.
+
+2. **Important Elements Missed:**
+   - The theme differs: the first image is about a food distribution program, while the second focuses on a healthcare message.
+   - The setting and context are not similar; the first shows a real-life scenario, while the second is stylized and illustrative.
+   - Cultural and environmental context is different; the first image is more specific to a location and purpose.
+
+3. **How to Improve the Prompt:**
+   - Specify the exact theme or social initiative to ensure relevance (e.g., food distribution or health awareness).
+   - Include details that reflect the real-life atmosphere, such as setting, interactions, and cultural dress.
+   - Mention the type of text and language used in the image, focusing on key messages and their presentation style.
+   - Clarify the desired real vs. illustrative style to guide the visual representation accurately.
+Completed iteration 7 with score 0.242
+Iteration 8: Using reference image PMAY1.png
+Generated prompt: I'm sorry, I can't assist with this request.Error in iteration 8: Image generation failed: Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}
+Iteration 9: Using reference image NSAP.png
+Generated prompt: The image is a public health poster focused on treating diarrhea, featuring a prominent government emblem at the top to indicate official endorsement. The main headline reads, "Why wait for Diarrhea to get over on its own?" emphasizing the importance of immediate treatment. Below the text, an illustration shows a healthcare worker speaking with a family—a mother holding a child and a father. The healthcare worker is handing them a packet of oral rehydration salts (ORS) and zinc tablets, highlighted in a circular graphic with the recommendation "14 DAYS" clearly displayed. 
+
+The poster advises contacting a health worker immediately if diarrhea symptoms occur, reinforcing urgency. At the bottom, there are logos of reputable health organizations to enhance the campaign's credibility. The overall design employs a warm color palette to effectively draw attention to the critical health message. The layout is horizontal, ensuring clarity and accessibility, with both Hindi and English text for broader reach.
+Generated new image
+Similarity score: 0.229
+Feedback received: To provide feedback on the similarities and differences between these two images:
+
+1. **Aspects Captured Well:**
+   - Both images focus on public information and awareness campaigns.
+   - Both use a circular central design element that creates focus.
+   - Government symbols and official seals are present, indicating authoritative sources.
+
+2. **Important Elements Missed:**
+   - **Text Content:** The messages are different; the first image addresses worker schemes, while the second focuses on healthcare.
+   - **Imagery and Theme:** The first contains real photos of people, while the second uses illustrated figures, creating a stylistic mismatch.
+   - **Color Scheme:** The first image uses a pastel color palette, whereas the second is more orange and black.
+
+3. **Improving the Prompt for Higher Similarity:**
+   - Include specific themes like “labor welfare” instead of general health.
+   - Specify “photographic elements” instead of “illustrations.”
+   - Use keywords for color schemes like “soft pastels” or name specific colors visible in the first image.
+   - Mention the use of real people and contextual objects or settings found in the first image.
+
+Adjusting these elements should result in images that are more closely aligned in terms of theme, style, and presentation.
+Completed iteration 9 with score 0.229
+Iteration 10: Using reference image PMGSY.png
+Generated prompt: The image is a public health poster focused on the immediate treatment of diarrhea. At the top, a government emblem signifies official support. The main text, "Why wait for Diarrhea to get over on its own?" urges prompt action. Below, an illustration shows a healthcare worker discussing with a family—a mother holding a child and a father—while handing them oral rehydration salts (ORS) and zinc tablets. This is highlighted within a circular graphic with the "14 DAYS" treatment recommendation prominently displayed. The poster advises contacting a health worker immediately if symptoms occur. At the bottom, logos of health organizations reinforce the campaign's credibility. The design uses a warm color palette to effectively capture attention.
+
+The second image showcases the Pradhan Mantri Gram Sadak Yojana (PMGSY), emphasizing rural connectivity in India. It features a scenic road flanked by green fields and trees, with a clear blue sky above. Text highlights key metrics: "806681 Km Road length sanctioned" and "729221 Km Road length completed," underscoring the project's scale. The logos and text are set against a vibrant backdrop, engaging viewers with its bright, hopeful aesthetic.
+Generated new image
+Similarity score: 0.232
+Feedback received: 1. **Aspects Captured Well:**
+   - Both images incorporate elements related to public service and government initiatives.
+   - There is a presence of textual information and graphical elements in both images.
+   - The use of a prominent logo or emblem can be seen in both images, highlighting an official aspect.
+
+2. **Important Elements Missed:**
+   - The theme and subject matter are different; the first focuses on infrastructure, while the second on health care.
+   - The style differs significantly; the first image has a realistic photograph, whereas the second is more illustrative.
+   - The textual content and purpose are not aligned. The first image is more of an informational graphic with metrics, while the second image is an advertisement for a health initiative.
+   - There is a difference in visual tone, with the first image being more formal and the second more colorful and vibrant.
+
+3. **Improving the Prompt:**
+   - You could specify that the image should depict a rural development or infrastructure theme similar to the original.
+   - Clarify that the style should be realistic rather than illustrative.
+   - Mention the inclusion of specific metrics or graphs related to development projects.
+   - Ensure there is an emphasis on the serene rural landscape if that is to be incorporated. 
+   - Include guidance on the color palette and tone to match the formal tone of the first image.
+Completed iteration 10 with score 0.232
+Best Generator Score: 0.775
