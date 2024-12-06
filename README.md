@@ -3,6 +3,8 @@ This Project is essentially a pipeline for generating posters for any particular
 
 Here's a rough diagram to give you an idea of what we're doing:
 
+![Architecture](architecture.png)
+
 We have used the PRISM method as introduced in this paper
 He, Y., Robey, A., Murata, N., Jiang, Y., Williams, J., Pappas, G. J., Hassani, H., Mitsufuji, Y., Salakhutdinov, R., & Kolter, J. Z. (2024). Automated black-box prompt engineering for personalized text-to-image generation. arXiv. https://arxiv.org/abs/2403.19103
 
